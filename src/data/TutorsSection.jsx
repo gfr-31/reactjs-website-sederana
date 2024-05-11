@@ -24,7 +24,8 @@ export const tutorList = [
         name:`Bruce Wills`,
     },
     {
-        image:`../public/img/Screenshot 2024-02-20 113814.png`,
+        image:`public/img/Screenshot 2024-02-20 113814.png`,
+        // image:`https://drive.google.com/file/d/1fN9BTY-wSX8ZsoKdxev1onbunPmru9YJ/view?usp=sharing`,
         name:`Pak Komar `,
     },
 ]
